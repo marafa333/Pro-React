@@ -1,0 +1,67 @@
+{
+    "product":[
+        {
+            "id":1,
+            "title":"  Blue Baseball Cap",
+            "Price":"86$",
+            "description":"Elevate your casual wear with this timeless   Blue Baseball Cap. Made with high-quality, breathable fabric, it features an adjustable strap for the perfect fit. Whether you’re out for a jog or just running errands, this cap adds a touch of style to any outfit.",
+            "image":"/uploads/1.jpeg"
+        },
+        {
+            "id":2,
+            "title":"  Navy Blue Baseball Cap",
+            "Price":"61$",
+            "description":"Elevate your casual wear with this timeless   Navy Blue Baseball Cap. Made with high-quality, breathable fabric, it features an adjustable strap for the perfect fit. Whether you’re out for a jog or just running errands, this cap adds a touch of style to any outfit.",
+            "image":"/uploads/2.jpeg"
+        },
+        {
+            "id":3,
+            "title":"  Red Baseball Cap",
+            "Price":"35$",
+            "description":"Elevate your casual wear with this timeless   Red Baseball Cap. Made with high-quality, breathable fabric, it features an adjustable strap for the perfect fit. Whether you’re out for a jog or just running errands, this cap adds a touch of style to any outfit.",
+            "image":"/uploads/3.jpeg"
+        },
+        {
+            "id":4,
+            "title":"  Comfort Drawstring ",
+            "Price":"79$",
+            "description":"Discover the perfect blend of style and comfort with our   Comfort Drawstring Joggers. These versatile black joggers feature a soft elastic waistband with an adjustable drawstring, two side pockets, and ribbed ankle. Made from a lightweight and durable fabric, they are ideal for both active days and relaxed lounging.",
+            "image":"/uploads/11.jpeg"
+        },
+        {
+            "id":5,
+            "title":"  Comfort Fit Joggers",
+            "Price":"25$",
+            "description":"Discover the perfect blend of style and comfort with our   Comfort Fit Joggers. These versatile black joggers feature a soft elastic waistband with an adjustable drawstring, two side pockets, and ribbed ankle cuffs for a secure fit. Made from a lightweight and durable fabric, they are ideal for both active days and relaxed lounging.",
+            "image":"/uploads/22.jpeg"
+        },
+        {
+            "id":6,
+            "title":"  Red Jogger Sweatpants",
+            "Price":"98$",
+            "description":"Discover the perfect blend of style and comfort with our   Red Jogger Sweatpants. These versatile black joggers feature a soft elastic waistband with an adjustable drawstring, two side pockets, and ribbed ankle cuffs for a secure fit. Made from a lightweight and durable fabric, they are ideal for both active days and relaxed lounging.",
+            "image":"/uploads/33.jpeg"
+        },
+        {
+            "id":7,
+            "title":"  Grey Hooded Sweatshirt",
+            "Price":"90$",
+            "description":"Discover the perfect blend of style and comfort with our   Grey Hooded Sweatshirt. These versatile black joggers feature a soft elastic waistband with an adjustable drawstring, two side pockets, and ribbed ankle cuffs for a secure fit. Made from a lightweight and durable fabric, they are ideal for both active days and relaxed lounging.",
+            "image":"/uploads/111.jpeg"
+        },
+        {
+            "id":8,
+            "title":"  Heather Gray Hoodie",
+            "Price":"69$",
+            "description":"Discover the perfect blend of style and comfort with our   Heather Gray Hoodie. These versatile black joggers feature a soft elastic waistband with an adjustable drawstring, two side pockets, and ribbed ankle cuffs for a secure fit. Made from a lightweight and durable fabric, they are ideal for both active days and relaxed lounging.",
+            "image":"/uploads/222.jpeg"
+        },
+        {
+            "id":9,
+            "title":"  Red Pullover Hoodie",
+            "Price":"10$",
+            "description":"Discover the perfect blend of style and comfort with our   Red Pullover Hoodie. These versatile black joggers feature a soft elastic waistband with an adjustable drawstring, two side pockets, and ribbed ankle cuffs for a secure fit. Made from a lightweight and durable fabric, they are ideal for both active days and relaxed lounging.",
+            "image":"/uploads/333.jpeg"
+        }
+    ]
+}
